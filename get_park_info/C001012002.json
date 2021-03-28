@@ -13,6 +13,11 @@
             "date": "2021-02-06 15:52:23",
             "density": NaN,
             "average_distance": NaN
+        },
+        {
+            "date": "2021-02-06 15:52:23",
+            "density": 267.17683315315315,
+            "average_distance": 2.1687300040596282
         }
     ]
 }
