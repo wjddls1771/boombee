@@ -128,11 +128,6 @@
             "data": [
                 {
                     "date": "2021-02-06 15:52:59",
-                    "density": NaN,
-                    "average_distance": NaN
-                },
-                {
-                    "date": "2021-02-06 15:52:59",
                     "density": 217.36420324324328,
                     "average_distance": 2.404423007708918
                 }
@@ -149,11 +144,6 @@
             "hour": "매일 00:00 - 24:00",
             "website": "http://tour.dobong.go.kr/Contents.asp?code=10003485",
             "data": [
-                {
-                    "date": "2021-02-06 15:51:17",
-                    "density": NaN,
-                    "average_distance": NaN
-                },
                 {
                     "date": "2021-02-06 15:51:17",
                     "density": 228.68525549549548,
